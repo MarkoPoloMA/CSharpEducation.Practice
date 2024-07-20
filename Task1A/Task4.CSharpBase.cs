@@ -4,7 +4,7 @@ namespace Task4A
 {
     class ClassTask4
     {
-        public static void Main()
+        public static void Task4()
         {
             Console.WriteLine("Введите ваше имя: ");
             string myName = Console.ReadLine();
