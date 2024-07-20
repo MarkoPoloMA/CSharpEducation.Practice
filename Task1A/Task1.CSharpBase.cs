@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task1A
 {
-    class Class1
+    class ClassTask1
     {
         int age;
         string name;
