@@ -1,5 +1,5 @@
 ﻿
-namespace Task1A
+namespace Task2A
 {
     class ClassTask2
     {

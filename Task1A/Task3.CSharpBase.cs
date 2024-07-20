@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Task1A
+namespace Task3A
 {
     class ClassTask3
     {
